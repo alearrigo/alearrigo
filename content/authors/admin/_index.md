@@ -13,8 +13,8 @@ superuser: true
 role: Data Scientist
 
 # Organizations/Affiliations
-organizations:
-- name: ""
+- organizations:
+  name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-   - course: M.Sc in Statistics
+  - course: M.Sc in Statistics
     institution: Università degli Studi di Palermo
     year: 2019
   - course: BSc in Economics and Finance
