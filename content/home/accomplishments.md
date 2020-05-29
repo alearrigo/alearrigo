@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "Stats under the Stars"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Winner: Migliore report che si distingue per la qualità della stesura e della presentazione dei risultati."
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.unipa.it/dipartimenti/seas/sus4/vincitori/"
+  date_start = "2018-05-19"
   date_end = ""
-  description = ""
+  description = "Stats Under the Stars (SUS) is an hackathon for Data Scientists, where the teams have a whole night to compete in the analysis of a real-world analytics problem, provided by a business company."
 
 # [[item]]
 #  organization = "edX"
