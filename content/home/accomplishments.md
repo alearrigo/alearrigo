@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Stats under the Stars"
-  organization_url = "https://www.coursera.org"
+  organization_url = ""
   title = "Winner: Migliore report che si distingue per la qualità della stesura e della presentazione dei risultati."
   url = ""
   certificate_url = "https://www.unipa.it/dipartimenti/seas/sus4/vincitori/"
