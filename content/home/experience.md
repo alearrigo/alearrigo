@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Technical Translator "
+  title = "Technical Translator"
   company = "Loopring"
   company_url = "https://loopring.org/"
   location = "Remote"
@@ -44,7 +44,19 @@ date_format = "Jan 2006"
   date_end = "2018-07-01"
   description = """
   
-  Curated the italian translation of Loopring's protocol whitepaper and several blog post as part of international community building
+  Curated the Italian translation of Loopring's protocol whitepaper and several blog posts as part of international community building effort.
+  """
+  
+  [[experience]]
+  title = "Statistical Consulting "
+  company = "Freelancing jobs"
+  company_url = ""
+  location = "Remote"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """
+  
+  scrivere descrizione
   """
 
 # [[experience]]
