@@ -56,7 +56,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  scrivere descrizione
+  
+Provided research support (cleaning and analyzing data) for several projects spanned survey data and social networks data. Worked with both private and institutional clients.
   """
 
 # [[experience]]
