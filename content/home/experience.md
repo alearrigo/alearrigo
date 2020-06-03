@@ -25,12 +25,13 @@ date_format = "Jan 2006"
   date_start = "2017-11-15"
   date_end = "2019-06-01"
   description = """
+  DexLab is an open source infrastructure with an array of added value financial technology services to foster global adoption of cryptocurrencies.
   
-   Responsibilities included:
+  Responsibilities included:
   
   * Identifying market and product opportunities.
   * Analyzing cryptocurrencies markets and forcasting asset pricing.
-  * Research on topic of new blockchain protocols and their internal dynamics.
+  * Research on topics of cryptoeconomics, new blockchain protocols and their internal dynamics.
   
   """
 
