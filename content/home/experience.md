@@ -26,11 +26,12 @@ date_format = "Jan 2006"
   date_end = "2019-06-01"
   description = """
   
-  Responsibilities include:
+  Responsibilities included:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Identifying market and product opportunities.
+  * Analyzing cryptocurrencies markets and forcasting asset pricing.
+  * Research on topic of new blockchain protocols and their internal dynamics.
+  
   """
 
 # [[experience]]
