@@ -69,5 +69,13 @@ user_groups:
 - Visitors
 ---
 
-I'm a data scientist doing freelance consultancy mainly in the field of psychometrics and finance. 
+I am a data scientist currently doing freelance consultancy. Here is some information about my (admittedly, non-contiguous) professional interests.
+
+I've always been interested in international startup scene and how technology can be leveraged for sustainable economic and social development. Previously, I co-founded a VC-backed startup called dexlab.io operating in open finance and cryptocurrencies spaces.
+
+Recently, I have been working as a consultant mainly in psychometrics, using several established tools and methods and exploring the paradigmatic revolution of dynamical network analysis in psychological constructs.
+
+Currently living in Italy, I lived in Berlin for a while.
+
+Check my Github and Medium for the latest public projects I am currently working on.
 
