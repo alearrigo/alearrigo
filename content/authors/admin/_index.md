@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include psychometrics, network analysis and statistical modeling.
 
 interests:
+- Data crunching and Visualization
 - Statistical Modeling
-- Machine Learning
+- R Programming
 - Network Analysis
 - Psychometrics
 
