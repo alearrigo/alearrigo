@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Co-founder/Analytics Lead"
+  title = "Co-founder - Analytics Lead"
   company = "Dexlab"
   company_url = "https://www.dexlab.io/"
   location = "Berlin"
   date_start = "2017-11-15"
   date_end = "2019-06-01"
   description = """
-  DexLab is an open source infrastructure with an array of added value financial technology services to foster global adoption of cryptocurrencies.
+  Dexlab is an open source infrastructure with an array of added value financial technology services to foster global adoption of cryptocurrencies.
   
   Responsibilities included:
   
@@ -33,6 +33,18 @@ date_format = "Jan 2006"
   * Analyzing cryptocurrencies markets and forcasting asset pricing.
   * Research on topics of cryptoeconomics, new blockchain protocols and their internal dynamics.
   
+  """
+  
+  [[experience]]
+  title = "Technical Translator "
+  company = "Loopring"
+  company_url = "https://loopring.org/"
+  location = "Remote"
+  date_start = "2018-04-01"
+  date_end = "2018-07-01"
+  description = """
+  
+  Curated the italian translation of Loopring's protocol whitepaper and several blog post as part of international community building
   """
 
 # [[experience]]
