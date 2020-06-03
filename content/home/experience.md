@@ -24,10 +24,9 @@ date_format = "Jan 2006"
   location = "Berlin"
   date_start = "2017-11-15"
   date_end = "2019-06-01"
-  description = """prova prova"""
+  description = """
   
-  """
-  Responsibilities included:
+   Responsibilities included:
   
   * Identifying market and product opportunities.
   * Analyzing cryptocurrencies markets and forcasting asset pricing.
