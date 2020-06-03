@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Berlin"
   date_start = "2017-11-15"
   date_end = "2019-06-01"
-  description = """
+  description = "Dexlab is the mobile wallet for cryptocurrencies and decentralized finance. Borrowing, lending, exchange and staking in one place. "
   Responsibilities include:
   
   * Analysing
