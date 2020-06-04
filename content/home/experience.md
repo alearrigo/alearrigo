@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   Responsibilities included:
   
   * Identifying market and product opportunities.
-  * Analyzing cryptocurrencies markets and forcasting asset pricing.
+  * Analyzing cryptocurrencies markets and forecasting asset pricing.
   * Research on topics of cryptoeconomics, new blockchain protocols and their internal dynamics.
   
   """
