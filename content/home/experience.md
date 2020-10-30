@@ -52,12 +52,12 @@ date_format = "Jan 2006"
   company = "Freelancing jobs"
   company_url = ""
   location = "Remote"
-  date_start = "2019-07-01"
+  date_start = "2018-07-01"
   date_end = ""
   description = """
   
   
-Provided research support (cleaning and analyzing data) for several projects spanned survey data and social networks data. Worked with both private and institutional clients.
+Provided research support (cleaning and analyzing data) for several projects spanned survey, financial and social networks data, in psychology, finance and health sectors. Worked with both private and institutional clients.
   """
 
 # [[experience]]
