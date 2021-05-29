@@ -12,6 +12,3 @@ I’ve always been interested in international startup scene and how technology 
 Recently, I have been working as a consultant mainly in psychometrics, using several established tools and methods and exploring the paradigmatic revolution of dynamical network analysis in psychological constructs.
 
 Currently living in Italy, I lived in Berlin for a while.
-
-In addition to my day to day consulting job, I am also passionate about **open source software development**. I especially love working on developing tools that make
-data visualization and statistical analysis more fun. 🙌
